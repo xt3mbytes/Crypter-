@@ -1,0 +1,21 @@
+--obtiene los datos
+vSearch = Input.GetText("InpSearch");
+vSave = Input.GetText("InpSvae");
+vPassword = Input.GetText("InpPassword");
+
+--- verifica si los datos estan escritos
+if vSearch == "" or vSearch == "CANCEL" then
+Dialog.Message("Error", "No has seleccionado ningun archivo", MB_OK, MB_ICONINFORMATION, MB_DEFBUTON1);
+else
+if vSave == "" or vSave == "CANCEL" then
+Dialog.Message("Error", "No has seleccionado ningun destinatario para el archivo", MB_OK, MB_ICONINFORMATION, MB_DEFBUTON1);
+else
+if vPassword == "" then
+Dialog.Message("Error", "No has escrito ninguna password", MB_OK, MB_ICONINFORMATION, MB_DEFBUTON1);
+else
+Dialog.TimedMessage("Encryptando", "Porfavor espere un momento ha que el archivo se encrypte correctamente",2000,MB_ICOUNONE);
+Crypto.Blowfishencrypt(vSearch,vSave,VPassword);
+Dialog.Message("Encriptado" ,"El archivo esta listo", MB_OK, MB_ICONINFORMATION, MG_BEFBUTTON1);
+end
+end
+end

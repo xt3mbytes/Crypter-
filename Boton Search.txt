@@ -1,0 +1,2 @@
+nSearch = Dialog.FileBrowse(true, "Buscar Archivo", _DesktopFolder, "All Files (*.*)|*.*|","", "dat", false, false);
+Input.SetText("InpSearch", nSearch[1]);

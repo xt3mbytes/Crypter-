@@ -1,0 +1,2 @@
+nSave = Dialog.FileBrowse(false, "Searchin file", _DesktopFolder, "All Files (*.crip*)|*.crip*|","", "dat", false, false);
+Input.SetText("InpSave", nSave[1]);
