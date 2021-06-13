@@ -1,22 +1,6 @@
 # Crypter-
-Buenas este proyecto es un crypter para encriptar archivos ya sea para la privacidad de documentos o para bypasear.  
-
-                      ,----,                                                             ,----,                      
-                    ,/   .`| .--,-``-.              ____                               ,/   .`|                      
- ,--,     ,--,    ,`   .'  :/   /     '.          ,'  , `.    ,---,.                 ,`   .'  :   ,---,.  .--.--.    
- |'. \   / .`|  ;    ;     / ../        ;      ,-+-,.' _ |  ,'  .'  \       ,---,  ;    ;     / ,'  .' | /  /    '.  
- ; \ `\ /' / ;.'___,/    ,'\ ``\  .`-    '  ,-+-. ;   , ||,---.' .' |      /_ ./|.'___,/    ,',---.'   ||  :  /`. /  
- `. \  /  / .'|    :     |  \___\/   \   : ,--.'|'   |  ;||   |  |: |,---, |  ' :|    :     | |   |   .';  |  |--`   
-  \  \/  / ./ ;    |.';  ;       \   :   ||   |  ,', |  '::   :  :  /___/ \.  : |;    |.';  ; :   :  |-,|  :  ;_     
-   \  \.'  /  `----'  |  |       /  /   / |   | /  | |  ||:   |    ; .  \  \ ,' '`----'  |  | :   |  ;/| \  \    `.  
-    \  ;  ;       '   :  ;       \  \   \ '   | :  | :  |,|   :     \ \  ;  `  ,'    '   :  ; |   :   .'  `----.   \ 
-   / \  \  \      |   |  '   ___ /   :   |;   . |  ; |--' |   |   . |  \  \    '     |   |  ' |   |  |-,  __ \  \  | 
-  ;  /\  \  \     '   :  |  /   /\   /   :|   : |  | ,    '   :  '; |   '  \   |     '   :  | '   :  ;/| /  /`--'  / 
-./__;  \  ;  \    ;   |.'  / ,,/  ',-    .|   : '  |/     |   |  | ;     \  ;  ;     ;   |.'  |   |    \'--'.     /  
-|   : / \  \  ;   '---'    \ ''\        ; ;   | |`-'      |   :   /       :  \  \    '---'    |   :   .'  `--'---'   
-;   |/   \  ' |             \   \     .'  |   ;/          |   | ,'         \  ' ;             |   | ,'               
-`---'     `--`               `--`-,,-'    '---'           `----'            `--`              `----'                 
-        -------------------------------------------------------------------------------------------  
+Buenas este proyecto es un crypter para encriptar archivos ya sea para la privacidad de documentos o para bypasear.                                            
+-------------------------------------------------------------------------------------------  
 Funcionamiento:  
 
 Opción 1: Abren el archivo .apz en el programa "Auto Play Media Studio" o en algún programa alternativo con capacidad de abrir .apz. 
@@ -31,3 +15,5 @@ Si alguien quiere mejorarlo o editarlo conjuntamente conmigo que me mande un men
 O si son diseñadores gráficos o con alguna mejora de diseño para el crypter también me lo podéis comunicar.   
 
 Gracias  
+
+Xt3mbytes
